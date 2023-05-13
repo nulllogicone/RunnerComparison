@@ -4,15 +4,14 @@
 
 ### Runner examples
 
-- DevOps pipelines  .yml
 - GitHub actions  .yml
+- DevOps pipelines  .yml
 - LogicApps .json
 - Durable Functions (async -> queue -> table)
 - B2C custom policies .xml
 
 Those are 'task runners' for 'business workflows'. Nice!
 Similar but different. 
-
 
 
 #### GitHub actions
