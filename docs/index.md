@@ -1,5 +1,6 @@
-# This is the **HOMEPAGE** in /docs/ folder
+# This is the **index.md** in /docs/ folder
 
 One level up is the **root of the repository**
 
-[root](../README.md)
+[root readme.md](README.md)  
+or [root readme.html](README.html)

@@ -2,4 +2,6 @@
   href: articles/
 - name: Api Documentation
   href: api/
+- name: cloned readme from root
+  href: README.html
   homepage: api/index.md
